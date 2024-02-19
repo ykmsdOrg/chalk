@@ -55,3 +55,5 @@ suite('chalk', () => {
 		chalkRed`the fox {bold jumps} over the {underline lazy} dog`;
 	});
 });
+
+
